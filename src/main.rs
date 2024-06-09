@@ -2,6 +2,7 @@ use Tjj_13::Affine_point::prime_field_13::*;
 use Tjj_13::Affine_point::Affine_point as Point;
 mod binary;
 use binary::Binary;
+// the start
 
 // this is to get all points in Tjj_13
 // F13 * F13 -> Affine_point this means that the limitation for x and y is within the range of 0..13(0..=12) and
